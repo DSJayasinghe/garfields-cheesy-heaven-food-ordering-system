@@ -1,0 +1,15 @@
+[submodule "customer-micro"]
+	path = customer-micro
+	url = https://github.com/HarinduVihan/customer-micro.git
+[submodule "employee-micro"]
+	path = employee-micro
+	url = https://github.com/DSJayasinghe/employee-micro.git
+[submodule "food-micro"]
+	path = food-micro
+	url = https://github.com/ThusathmiSapumanage/FoodMicroService.git
+[submodule "order-micro"]
+	path = order-micro
+	url = https://github.com/uvindusl/EAD2-order-micro.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/uvindusl/EAD2-Frontend.git
